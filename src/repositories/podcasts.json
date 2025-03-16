@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "JAIR BOLSONARO - Flow #426",
+        "videoId": "WykOxY55yw0",
+        "categoria": ["politica", "melhores"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RAFINHA BASTOS - Flow #421",
+        "videoId": "41WkNbV_-9s",                
+        "categoria": ["humor", "melhores"]
+    },
+    {
+        "podcastName": "Venus",
+        "episode": "Xuxa",
+        "videoId": "41WkNbV_-9s",                
+        "categoria": ["humor"]
+    }
+]
